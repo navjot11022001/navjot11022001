@@ -1,4 +1,4 @@
-### Hi there I'M Navjot SIngh👋
+<h1 align="center"> Hi there I'M Navjot SIngh👋</h1>
   Glad to see you here 😍
  <img src="https://freesvg.org/img/thenanobel-programming-17.01-inkscape-svg.png">
  
