@@ -1,5 +1,6 @@
 ### Hi there I'M Navjot SIngh👋
   Glad to see you here 😍
+ <img src="https://freesvg.org/img/thenanobel-programming-17.01-inkscape-svg.png">
  
 - 🔭 I’m currently working on Fullstack projects
 - 🌱 I’m currently learning Firebase
