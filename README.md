@@ -8,5 +8,5 @@
 - 💬 Ask me about Fullstack or any tech related stuff.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: i code i dreams also😂
+- ⚡ Fun fact: i code in dreams also😂
 
