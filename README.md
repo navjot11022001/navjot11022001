@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**navjot11022001/navjot11022001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Hi there I'M Navjot SIngh👋
+  Glad to see you here 😍
+ 
+- 🔭 I’m currently working on Fullstack projects
+- 🌱 I’m currently learning Firebase
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with new ideas and new people
+- 💬 Ask me about Fullstack or any tech related stuff.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: i code i dreams also😂
+
