@@ -11,3 +11,5 @@ gmail-[cunavjot](cunavjot@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i code in dreams also😂
 
+<img src="https://github-readme-stats.vercel.app/api?username=navjot11022001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
