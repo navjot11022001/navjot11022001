@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I'M Navjot SIngh👋</h1>
  <h2 align="center"> Glad to see you here 😍</h2>
- <img align="center" src="https://freesvg.org/img/thenanobel-programming-17.01-inkscape-svg.png">
+ <img marging-left="auto" src="https://freesvg.org/img/thenanobel-programming-17.01-inkscape-svg.png">
  
 - 🔭 I’m currently working on Fullstack projects
 - 🌱 I’m currently learning Firebase
